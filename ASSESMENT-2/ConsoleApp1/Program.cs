@@ -36,7 +36,7 @@ namespace ConsoleApp1
 
                     WriteLine($"    {a[j]}  ");
 
-                WriteLine("array sorted in desending order..............\n");
+                WriteLine("array in desending order..............\n");
 
                 System.Array.Reverse(a);
 
@@ -72,7 +72,16 @@ namespace ConsoleApp1
             {
 
 
-                input()
+                input();
+
+                total();
+
+
+                //
+
+                // WriteLine($"Maximum of array {arry.Max}");
+
+                //WriteLine($"Minimum of array {arry.Min}");
 
 
 
@@ -92,11 +101,11 @@ namespace ConsoleApp1
 
                 for (int i = 0; i < r; i++)
 
-                {                                   
+                {                                   //we can use arr.getlength(0) to get length of row;
 
                     for (int j = 0; j < c; j++)
 
-                    {                             
+                    {                               // we can use arr.getlenth(10 to get length of column;
 
                         arr[i, j] = Convert.ToInt32(ReadLine());
 
