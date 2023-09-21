@@ -1,7 +1,0 @@
-D:\Training\CodeBase_Test\Code Test-2\bin\Debug\Code Test-2.exe.config
-D:\Training\CodeBase_Test\Code Test-2\bin\Debug\Code Test-2.exe
-D:\Training\CodeBase_Test\Code Test-2\bin\Debug\Code Test-2.pdb
-D:\Training\CodeBase_Test\Code Test-2\obj\Debug\Code Test-2.csproj.AssemblyReference.cache
-D:\Training\CodeBase_Test\Code Test-2\obj\Debug\Code Test-2.csproj.CoreCompileInputs.cache
-D:\Training\CodeBase_Test\Code Test-2\obj\Debug\Code Test-2.exe
-D:\Training\CodeBase_Test\Code Test-2\obj\Debug\Code Test-2.pdb
