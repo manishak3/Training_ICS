@@ -1,0 +1,6 @@
+D:\CSHARP\Concession\bin\Debug\Concession.dll
+D:\CSHARP\Concession\bin\Debug\Concession.pdb
+D:\CSHARP\Concession\obj\Debug\Concession.csproj.AssemblyReference.cache
+D:\CSHARP\Concession\obj\Debug\Concession.csproj.CoreCompileInputs.cache
+D:\CSHARP\Concession\obj\Debug\Concession.dll
+D:\CSHARP\Concession\obj\Debug\Concession.pdb

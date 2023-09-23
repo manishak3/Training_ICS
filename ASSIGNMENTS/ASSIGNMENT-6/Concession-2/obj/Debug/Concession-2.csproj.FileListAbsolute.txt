@@ -1,0 +1,10 @@
+D:\CSHARP\Concession-2\bin\Debug\Concession-2.exe.config
+D:\CSHARP\Concession-2\bin\Debug\Concession-2.exe
+D:\CSHARP\Concession-2\bin\Debug\Concession-2.pdb
+D:\CSHARP\Concession-2\bin\Debug\Concession.dll
+D:\CSHARP\Concession-2\bin\Debug\Concession.pdb
+D:\CSHARP\Concession-2\obj\Debug\Concession-2.csproj.AssemblyReference.cache
+D:\CSHARP\Concession-2\obj\Debug\Concession-2.csproj.CoreCompileInputs.cache
+D:\CSHARP\Concession-2\obj\Debug\Concession-2.csproj.CopyComplete
+D:\CSHARP\Concession-2\obj\Debug\Concession-2.exe
+D:\CSHARP\Concession-2\obj\Debug\Concession-2.pdb
