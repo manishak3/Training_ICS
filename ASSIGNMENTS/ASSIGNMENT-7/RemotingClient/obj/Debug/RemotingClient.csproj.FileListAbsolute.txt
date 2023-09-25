@@ -1,0 +1,11 @@
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\bin\Debug\RemotingClient.exe.config
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\bin\Debug\RemotingClient.exe
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\bin\Debug\RemotingClient.pdb
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\bin\Debug\RemotingServer.exe
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\bin\Debug\RemotingServer.pdb
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\bin\Debug\RemotingServer.exe.config
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\obj\Debug\RemotingClient.csproj.AssemblyReference.cache
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\obj\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\obj\Debug\RemotingClient.csproj.CopyComplete
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\obj\Debug\RemotingClient.exe
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\RemotingClient\obj\Debug\RemotingClient.pdb
