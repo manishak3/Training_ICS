@@ -1,0 +1,7 @@
+D:\CSHARP\CODEBASETEST\Code Test-3\bin\Debug\Code Test-3.exe.config
+D:\CSHARP\CODEBASETEST\Code Test-3\bin\Debug\Code Test-3.exe
+D:\CSHARP\CODEBASETEST\Code Test-3\bin\Debug\Code Test-3.pdb
+D:\CSHARP\CODEBASETEST\Code Test-3\obj\Debug\Code Test-3.csproj.AssemblyReference.cache
+D:\CSHARP\CODEBASETEST\Code Test-3\obj\Debug\Code Test-3.csproj.CoreCompileInputs.cache
+D:\CSHARP\CODEBASETEST\Code Test-3\obj\Debug\Code Test-3.exe
+D:\CSHARP\CODEBASETEST\Code Test-3\obj\Debug\Code Test-3.pdb
