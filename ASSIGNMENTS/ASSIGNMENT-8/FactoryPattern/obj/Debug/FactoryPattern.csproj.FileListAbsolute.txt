@@ -1,0 +1,14 @@
+C:\Users\manishas\source\repos\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\manishas\source\repos\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\manishas\source\repos\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\manishas\source\repos\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\manishas\source\repos\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\manishas\source\repos\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\manishas\source\repos\FactoryPattern\obj\Debug\FactoryPattern.pdb
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-8\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-8\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-8\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-8\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-8\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-8\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-8\FactoryPattern\obj\Debug\FactoryPattern.pdb

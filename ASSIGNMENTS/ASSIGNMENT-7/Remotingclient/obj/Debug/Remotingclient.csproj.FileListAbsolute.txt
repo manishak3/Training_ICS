@@ -1,0 +1,12 @@
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\bin\Debug\Remotingclient.exe.config
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\bin\Debug\Remotingclient.exe
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\bin\Debug\Remotingclient.pdb
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\bin\Debug\RemotingServer.exe
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\obj\Debug\Remotingclient.csproj.AssemblyReference.cache
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\obj\Debug\Remotingclient.Form1.resources
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\obj\Debug\Remotingclient.Properties.Resources.resources
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\obj\Debug\Remotingclient.csproj.GenerateResource.cache
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\obj\Debug\Remotingclient.csproj.CoreCompileInputs.cache
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\obj\Debug\Remotingclient.csproj.CopyComplete
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\obj\Debug\Remotingclient.exe
+D:\CSHARP\ASSIGNMENTS\ASSIGNMENT-7\Remotingclient\obj\Debug\Remotingclient.pdb
