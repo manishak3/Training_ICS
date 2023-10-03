@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DAC2315B-0650-4265-BAEE-F48CCA928841}</ProjectGuid>
+    <ProjectGuid>{E2C2823E-0D30-4239-89FC-55049FAE51E9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Code_Test_3</RootNamespace>
-    <AssemblyName>Code Test-3</AssemblyName>
+    <RootNamespace>Code_Test_4</RootNamespace>
+    <AssemblyName>Code Test-4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Code_Test_3.Program</StartupObject>
+    <StartupObject>employee.program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,7 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Box.cs" />
+    <Compile Include="Calculator.cs" />
+    <Compile Include="generics.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

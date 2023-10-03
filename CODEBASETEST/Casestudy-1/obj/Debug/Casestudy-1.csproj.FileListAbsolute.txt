@@ -1,0 +1,7 @@
+D:\CSHARP\CODEBASETEST\Casestudy-1\bin\Debug\Casestudy-1.exe.config
+D:\CSHARP\CODEBASETEST\Casestudy-1\bin\Debug\Casestudy-1.exe
+D:\CSHARP\CODEBASETEST\Casestudy-1\bin\Debug\Casestudy-1.pdb
+D:\CSHARP\CODEBASETEST\Casestudy-1\obj\Debug\Casestudy-1.csproj.AssemblyReference.cache
+D:\CSHARP\CODEBASETEST\Casestudy-1\obj\Debug\Casestudy-1.csproj.CoreCompileInputs.cache
+D:\CSHARP\CODEBASETEST\Casestudy-1\obj\Debug\Casestudy-1.exe
+D:\CSHARP\CODEBASETEST\Casestudy-1\obj\Debug\Casestudy-1.pdb
