@@ -1,7 +1,0 @@
-D:\CSHARP\CODEBASETEST\CodebaseTest_4\bin\Debug\CodebaseTest_4.exe.config
-D:\CSHARP\CODEBASETEST\CodebaseTest_4\bin\Debug\CodebaseTest_4.exe
-D:\CSHARP\CODEBASETEST\CodebaseTest_4\bin\Debug\CodebaseTest_4.pdb
-D:\CSHARP\CODEBASETEST\CodebaseTest_4\obj\Debug\CodebaseTest_4.csproj.AssemblyReference.cache
-D:\CSHARP\CODEBASETEST\CodebaseTest_4\obj\Debug\CodebaseTest_4.csproj.CoreCompileInputs.cache
-D:\CSHARP\CODEBASETEST\CodebaseTest_4\obj\Debug\CodebaseTest_4.exe
-D:\CSHARP\CODEBASETEST\CodebaseTest_4\obj\Debug\CodebaseTest_4.pdb
