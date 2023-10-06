@@ -1,7 +1,0 @@
-D:\CSHARP\CASESTUDY\Case Study-1\bin\Debug\Case Study-1.exe.config
-D:\CSHARP\CASESTUDY\Case Study-1\bin\Debug\Case Study-1.exe
-D:\CSHARP\CASESTUDY\Case Study-1\bin\Debug\Case Study-1.pdb
-D:\CSHARP\CASESTUDY\Case Study-1\obj\Debug\Case Study-1.csproj.AssemblyReference.cache
-D:\CSHARP\CASESTUDY\Case Study-1\obj\Debug\Case Study-1.csproj.CoreCompileInputs.cache
-D:\CSHARP\CASESTUDY\Case Study-1\obj\Debug\Case Study-1.exe
-D:\CSHARP\CASESTUDY\Case Study-1\obj\Debug\Case Study-1.pdb
