@@ -1,10 +1,10 @@
-CREATE DATABASE CODETEST1
-USE CODETEST1
+create database CODETEST1
+use CODETEST1
 
 create table books(
 id int primary key,
-title varchar(30),
-author varchar(30),
+title varchar(20),
+author varchar(15),
 isbn bigint unique,
 published_date varchar(30))
 
@@ -21,8 +21,8 @@ select author from books where author like '%er'
 create table reviews(
 id int,
 book_id int,
-reviewer_name varchar(30),
-content varchar(30),
+reviewer_name varchar(25),
+content varchar(20),
 rating int,
 published_date varchar(30))
 
@@ -44,9 +44,9 @@ select reviewer_name from reviews group by reviewer_name having COUNT(*) > 1
 
 create table Customerr(
 customer_id int ,
-cusname varchar(20),
+cusname varchar(15),
 age int,
-cusaddress varchar(20),
+cusaddress varchar(45),
 salary decimal)
 
 insert into Customerr values
@@ -67,7 +67,7 @@ select * from customerr where cusaddress like '%o%'
 
 create table Orders(
 Oid int,
-Odate varchar(30),
+Odate varchar(10),
 customer_id int,
 amount int)
 
@@ -86,9 +86,9 @@ select odate, count(DISTINCT customer_id) as total_customers from orders group b
 
 create table employee(
 emp_id int ,
-ename varchar(20),
+ename varchar(10),
 eage int,
-eaddress varchar(20),
+eaddress varchar(30),
 salary decimal)
 
 insert into employee values
@@ -106,13 +106,13 @@ select lower(ename) as 'lowercase name' from employee where salary is null
 
 create table studentdetails(
 register_id int,
-sname varchar(30),
+sname varchar(20),
 sage int,
-qual varchar(15),
+qual varchar(20),
 mobno bigint,
-mail varchar(30),
-loc varchar(20),
-gender varchar(20))
+mail varchar(20),
+loc varchar(40),
+gender varchar(10))
 
 insert into  studentdetails values
 (2,'sai',22,'B.E',9952836777,'sai@gmail.com','chennai','M'),
