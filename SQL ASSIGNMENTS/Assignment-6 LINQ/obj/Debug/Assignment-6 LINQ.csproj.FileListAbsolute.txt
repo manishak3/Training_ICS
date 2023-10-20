@@ -1,0 +1,7 @@
+D:\CSHARP\SQL ASSIGNMENTS\Assignment-6 LINQ\bin\Debug\Assignment-6 LINQ.exe.config
+D:\CSHARP\SQL ASSIGNMENTS\Assignment-6 LINQ\bin\Debug\Assignment-6 LINQ.exe
+D:\CSHARP\SQL ASSIGNMENTS\Assignment-6 LINQ\bin\Debug\Assignment-6 LINQ.pdb
+D:\CSHARP\SQL ASSIGNMENTS\Assignment-6 LINQ\obj\Debug\Assignment-6 LINQ.csproj.AssemblyReference.cache
+D:\CSHARP\SQL ASSIGNMENTS\Assignment-6 LINQ\obj\Debug\Assignment-6 LINQ.csproj.CoreCompileInputs.cache
+D:\CSHARP\SQL ASSIGNMENTS\Assignment-6 LINQ\obj\Debug\Assignment-6 LINQ.exe
+D:\CSHARP\SQL ASSIGNMENTS\Assignment-6 LINQ\obj\Debug\Assignment-6 LINQ.pdb
