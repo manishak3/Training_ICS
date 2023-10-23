@@ -1,0 +1,7 @@
+D:\CSHARP\CODEBASETEST\Ado Code_Test6\bin\Debug\Ado Code_Test6.exe.config
+D:\CSHARP\CODEBASETEST\Ado Code_Test6\bin\Debug\Ado Code_Test6.exe
+D:\CSHARP\CODEBASETEST\Ado Code_Test6\bin\Debug\Ado Code_Test6.pdb
+D:\CSHARP\CODEBASETEST\Ado Code_Test6\obj\Debug\Ado Code_Test6.csproj.AssemblyReference.cache
+D:\CSHARP\CODEBASETEST\Ado Code_Test6\obj\Debug\Ado Code_Test6.csproj.CoreCompileInputs.cache
+D:\CSHARP\CODEBASETEST\Ado Code_Test6\obj\Debug\Ado Code_Test6.exe
+D:\CSHARP\CODEBASETEST\Ado Code_Test6\obj\Debug\Ado Code_Test6.pdb

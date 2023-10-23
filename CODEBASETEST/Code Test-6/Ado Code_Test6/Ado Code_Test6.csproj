@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{56A48EE3-8974-4A8A-97ED-825E9A770F25}</ProjectGuid>
+    <ProjectGuid>{971BB658-175E-48FB-9587-6EE981F8FE2D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Code_Test</RootNamespace>
-    <AssemblyName>Code_Test</AssemblyName>
+    <RootNamespace>Ado_Code_Test6</RootNamespace>
+    <AssemblyName>Ado Code_Test6</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
