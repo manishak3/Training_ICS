@@ -33,7 +33,7 @@ class Program
 
         // 1: Display employees who joined before 1/1/2015
         Console.WriteLine("1.Employees who joined before 1 / 1 / 2015:\n--------------------------");
-        var before2015 = EmpList.Where(e => e.DOJ < new DateTime(2015,1,1));
+        var before2015 = EmpList.Where(e => e.DOJ < new DateTime(2015, 1, 1));
         foreach (var emp in before2015)
         {
             Console.WriteLine($"{emp.FirstName} {emp.LastName}, {emp.DOJ.ToShortDateString()}");
@@ -90,7 +90,7 @@ class Program
             Console.WriteLine($"{city.City}: {city.Count}");
         }
         Console.WriteLine();
-        
+
         //10: Total number of employees based on city and title
         var employeesByCityAndTitle = EmpList.GroupBy(e => new { e.City, e.Title }).Select(g => new { City = g.Key.City, Title = g.Key.Title, Count = g.Count() });
         Console.WriteLine("10.Total number of employees based on City and Title:\n-----------------------------------------");

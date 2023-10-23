@@ -1,0 +1,7 @@
+D:\CSHARP\SQL CODETEST\Code_Test\bin\Debug\Code_Test.exe.config
+D:\CSHARP\SQL CODETEST\Code_Test\bin\Debug\Code_Test.exe
+D:\CSHARP\SQL CODETEST\Code_Test\bin\Debug\Code_Test.pdb
+D:\CSHARP\SQL CODETEST\Code_Test\obj\Debug\Code_Test.csproj.AssemblyReference.cache
+D:\CSHARP\SQL CODETEST\Code_Test\obj\Debug\Code_Test.csproj.CoreCompileInputs.cache
+D:\CSHARP\SQL CODETEST\Code_Test\obj\Debug\Code_Test.exe
+D:\CSHARP\SQL CODETEST\Code_Test\obj\Debug\Code_Test.pdb
