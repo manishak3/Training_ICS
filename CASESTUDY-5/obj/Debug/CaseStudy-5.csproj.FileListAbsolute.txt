@@ -1,0 +1,7 @@
+D:\CSHARP\CASESTUDY\CaseStudy-5\bin\Debug\CaseStudy-5.exe.config
+D:\CSHARP\CASESTUDY\CaseStudy-5\bin\Debug\CaseStudy-5.exe
+D:\CSHARP\CASESTUDY\CaseStudy-5\bin\Debug\CaseStudy-5.pdb
+D:\CSHARP\CASESTUDY\CaseStudy-5\obj\Debug\CaseStudy-5.csproj.AssemblyReference.cache
+D:\CSHARP\CASESTUDY\CaseStudy-5\obj\Debug\CaseStudy-5.csproj.CoreCompileInputs.cache
+D:\CSHARP\CASESTUDY\CaseStudy-5\obj\Debug\CaseStudy-5.exe
+D:\CSHARP\CASESTUDY\CaseStudy-5\obj\Debug\CaseStudy-5.pdb
